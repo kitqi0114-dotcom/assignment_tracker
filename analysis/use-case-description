@@ -1,1 +1,42 @@
+1.	Actor:
+•	Student: The students interact with the system to view dashboard, view assignments, and receive reminders.
+•	Lecturer: The lecturer uses the system to manage assignments.
 
+2.	Student Use Cases:
+•	Register
+Students must first register an account in the system by providing the required information.
+•	Log in
+After registering, students can log into the system to access assignment tracking features. The registration process is included as part of accessing the system for new users.
+•	View Dashboard
+Students can access dashboard that summarizes their assignment information such as upcoming deadlines and submitted assignments.
+•	View Assignments
+Students can view a list of assignments provided by the lecturer.
+•	View Details (Included Use Case)
+When students selected an assignment, they can view more detailed information such as instructions, due date, and requirements.
+•	Submit Assignments (Extended Use Case)
+After viewing assignment details, students can submit their completed assignments through the system.
+•	Receive Reminder
+Students receive reminders or notifications about upcoming assignments deadlines to help them submit their work on time.
+
+
+3.	Lecturer Use Cases:
+•	Log in
+Lecturers must log into the system to manage assignments.
+•	Manage Assignments
+This is the main function for lecturers. They can control all assignment-related tasks.
+The following use cases extend the Manage Assignments function:
+-	Create Assignment – Lecturers can create new assignments and provide instructions and deadline.
+-	Edit Assignment – Lecturers can update assignment details if necessary.
+-	Delete Assignment – Lecturers can remove assignments from the system.
+-	View Submissions – Lecturers can review assignments submitted by students.
+
+4.	Relationships in the Diagram
+•	<<include>> Relationship
+The <<include>> relationship indicates that a use case must always perform another use case as a part of its process.
+Example:
+-	View Assignments includes View Details
+
+•	<<extend>> Relationship
+The <<extend>> relationship represents optional or additional functionality that extend a main use case.
+Example:
+-	Create, Edit, Delete Assignment, and View Submissions extend Manage Assignments.
