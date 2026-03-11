@@ -14,11 +14,11 @@ The Assignment Tracking and Reminder System is designed to help students manage 
 - To provide a simple and user-friendly interface that students can easily use.
 
 ## Team Members
-- Tan Zi Jian – Role
-- Ng Wen Le – Role
-- Tan Jun Han – Role
-- Wong Wei Ming – Role
-- Cheong Kit Qi – 
+- Tan Zi Jian –  0375995
+- Ng Wen Le – 0378233
+- Tan Jun Han – 0377985
+- Wong Wei Ming – 0378772
+- Cheong Kit Qi –  0378518
 
 ## SDLC Overview
 The project follows the Software Development Life Cycle (SDLC) and Agile approach.
