@@ -4,23 +4,21 @@ Assignment Tracker System
 SDG 4 – Quality Education
 
 ## Project Description
-- This project develops an Assignment Tracker System for students.
-- The system helps students manage and monitor their assignments.
-- Students can track deadlines and organize their academic tasks more efficiently.
-- The goal is to improve time management and reduce missed submissions.
+The Assignment Tracking and Reminder System is designed to help students manage their assignments more effectively. Students often handle multiple assignments from different subjects and may miss deadlines when using traditional methods such as paper notes or simple reminders. This system provides a digital platform where students can record assignments, monitor deadlines, and receive reminders. The goal is to help students stay organized, improve productivity, and avoid missing important submission dates.
 
 ## Objectives
-- Help students organize and manage their assignments.
-- Allow students to track deadlines easily.
-- Improve students' time management skills.
-- Provide a simple system to monitor assignment progress.
+- To help students record and organize their assignments in a structured system.
+- To provide reminders for upcoming assignment deadlines.
+- To improve students’ time management and productivity.
+- To reduce the chances of students missing important submission dates.
+- To provide a simple and user-friendly interface that students can easily use.
 
 ## Team Members
 - Tan Zi Jian – Role
 - Ng Wen Le – Role
 - Tan Jun Han – Role
 - Wong Wei Ming – Role
-- Cheong Kit Qi – Role
+- Cheong Kit Qi – 
 
 ## SDLC Overview
 The project follows the Software Development Life Cycle (SDLC) and Agile approach.
@@ -53,10 +51,11 @@ The project follows the Software Development Life Cycle (SDLC) and Agile approac
 - Compile the final report and presentation
 
 ## Repository Structure
-- *planning/* → product vision, requirements, user stories
-- *design/* → diagrams, UI wireframes
-- *testing/* → testing results and feedback
-- *final/* → final prototype and summary
+- *requirements/* - product vision, requirements, user stories, stakeholders, trello links, requirements gathering process
+- *analysis/* - use case diagram
+- *design/* - class diagrams, wireframes
+- *testing/* - test case
+- *prototype development/* - final prototype and summary
 
 ## Tools Used
 - GitHub – project repository and version control
